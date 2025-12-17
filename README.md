@@ -50,7 +50,7 @@ Due to simulator limitations, slide switches are used to emulate IR sensor outpu
 ---
 
 ## 🎥 Simulation Demo Video
-(Add your YouTube or Google Drive link here)
+
 
 ---
 
